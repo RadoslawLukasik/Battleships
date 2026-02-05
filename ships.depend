@@ -1,0 +1,1999 @@
+# depslib dependency file v1.0
+1739811381 source:/mnt/AEF6B09DF6B0676D/PROGRAMOWANIE/PROGRAMY/SHIPS/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1739911020 
+
+1740172135 source:/mnt/AEF6B09DF6B0676D/PROGRAMOWANIE/PROGRAMY/BATTLESHIPS/main.c
+	<glib/gi18n.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1709847305 /usr/include/glib-2.0/glib/gi18n.h
+	<glib.h>
+	<libintl.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib.h
+	<glib/galloca.h>
+	<glib/garray.h>
+	<glib/gasyncqueue.h>
+	<glib/gatomic.h>
+	<glib/gbacktrace.h>
+	<glib/gbase64.h>
+	<glib/gbitlock.h>
+	<glib/gbookmarkfile.h>
+	<glib/gbytes.h>
+	<glib/gcharset.h>
+	<glib/gchecksum.h>
+	<glib/gconvert.h>
+	<glib/gdataset.h>
+	<glib/gdate.h>
+	<glib/gdatetime.h>
+	<glib/gdir.h>
+	<glib/genviron.h>
+	<glib/gerror.h>
+	<glib/gfileutils.h>
+	<glib/ggettext.h>
+	<glib/ghash.h>
+	<glib/ghmac.h>
+	<glib/ghook.h>
+	<glib/ghostutils.h>
+	<glib/giochannel.h>
+	<glib/gkeyfile.h>
+	<glib/glist.h>
+	<glib/gmacros.h>
+	<glib/gmain.h>
+	<glib/gmappedfile.h>
+	<glib/gmarkup.h>
+	<glib/gmem.h>
+	<glib/gmessages.h>
+	<glib/gnode.h>
+	<glib/goption.h>
+	<glib/gpathbuf.h>
+	<glib/gpattern.h>
+	<glib/gpoll.h>
+	<glib/gprimes.h>
+	<glib/gqsort.h>
+	<glib/gquark.h>
+	<glib/gqueue.h>
+	<glib/grand.h>
+	<glib/grcbox.h>
+	<glib/grefcount.h>
+	<glib/grefstring.h>
+	<glib/gregex.h>
+	<glib/gscanner.h>
+	<glib/gsequence.h>
+	<glib/gshell.h>
+	<glib/gslice.h>
+	<glib/gslist.h>
+	<glib/gspawn.h>
+	<glib/gstrfuncs.h>
+	<glib/gstringchunk.h>
+	<glib/gstring.h>
+	<glib/gstrvbuilder.h>
+	<glib/gtestutils.h>
+	<glib/gthread.h>
+	<glib/gthreadpool.h>
+	<glib/gtimer.h>
+	<glib/gtimezone.h>
+	<glib/gtrashstack.h>
+	<glib/gtree.h>
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/guri.h>
+	<glib/gutils.h>
+	<glib/guuid.h>
+	<glib/gvariant.h>
+	<glib/gvarianttype.h>
+	<glib/gversion.h>
+	<glib/gversionmacros.h>
+	<glib/gwin32.h>
+	<glib/deprecated/gallocator.h>
+	<glib/deprecated/gcache.h>
+	<glib/deprecated/gcompletion.h>
+	<glib/deprecated/gmain.h>
+	<glib/deprecated/grel.h>
+	<glib/deprecated/gthread.h>
+	<glib/glib-autocleanups.h>
+	<glib/glib-typeof.h>
+
+1733989135 -typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/galloca.h
+	<glib/gtypes.h>
+	<string.h>
+	<alloca.h>
+	<alloca.h>
+	<malloc.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtypes.h
+	<glibconfig.h>
+	<glib/gmacros.h>
+	<glib/gversionmacros.h>
+	<glib/glib-visibility.h>
+	<time.h>
+
+1731519730 /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h
+	<glib/gmacros.h>
+	<limits.h>
+	<float.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmacros.h
+	<stddef.h>
+
+1731519730 /usr/include/glib-2.0/glib/gversionmacros.h
+
+1731519730 /usr/include/glib-2.0/glib/glib-visibility.h
+
+1709847305 /usr/include/glib-2.0/glib/garray.h
+	<glib/gtypes.h>
+
+1733989135 es.h>
+
+1709847305 /usr/include/glib-2.0/glib/gasyncqueue.h
+	<glib/gthread.h>
+
+1733989135 ead.h>
+
+1709847305 /usr/include/glib-2.0/glib/gthread.h
+	<glib/gatomic.h>
+	<glib/gerror.h>
+	<glib/gutils.h>
+
+1733989135 ls.h>
+
+1709847305 /usr/include/glib-2.0/glib/gatomic.h
+	<glib/gtypes.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/glib-typeof.h
+	<glib/gversionmacros.h>
+	<type_traits>
+
+1733989135 ts>
+
+1709847305 /usr/include/glib-2.0/glib/gerror.h
+	<stdarg.h>
+	<glib/gquark.h>
+
+1733989135 rk.h>
+
+1709847305 /usr/include/glib-2.0/glib/gquark.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gutils.h
+	<glib/gtypes.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbacktrace.h
+	<glib/gtypes.h>
+	<sys/select.h>
+	<signal.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbase64.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbitlock.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbookmarkfile.h
+	<glib/gdatetime.h>
+	<glib/gerror.h>
+	<time.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdatetime.h
+	<glib/gtimezone.h>
+
+1733989135 ezone.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtimezone.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbytes.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+
+1733989135 ay.h>
+
+1709847305 /usr/include/glib-2.0/glib/gcharset.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gchecksum.h
+	<glib/gtypes.h>
+	<glib/gbytes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gconvert.h
+	<glib/gerror.h>
+
+1733989135 or.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdataset.h
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdate.h
+	<time.h>
+	<glib/gtypes.h>
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdir.h
+	<glib/gerror.h>
+	<dirent.h>
+
+1709847305 /usr/include/glib-2.0/glib/genviron.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gfileutils.h
+	<glibconfig.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/ggettext.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/ghash.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+	<glib/glist.h>
+
+1733989135 t.h>
+
+1709847305 /usr/include/glib-2.0/glib/glist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1733989135 e.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmem.h
+	<glib/gutils.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/gnode.h
+	<glib/gmem.h>
+
+1739911020 .h>
+
+1709847305 /usr/include/glib-2.0/glib/ghmac.h
+	<glib/gtypes.h>
+	"gchecksum.h"
+
+1739177784 .h"
+
+1709847305 /usr/include/glib-2.0/glib/ghook.h
+	<glib/gmem.h>
+
+1709847305 /usr/include/glib-2.0/glib/ghostutils.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/giochannel.h
+	<glib/gconvert.h>
+	<glib/gmain.h>
+	<glib/gstring.h>
+
+1733989135 ing.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmain.h
+	<glib/gpoll.h>
+	<glib/gslist.h>
+	<glib/gthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpoll.h
+	<glibconfig.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gslist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstring.h
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/gbytes.h>
+	<glib/gstrfuncs.h>
+	<glib/gutils.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gunicode.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstrfuncs.h
+	<stdarg.h>
+	<string.h>
+	<glib/gmacros.h>
+	<glib/gtypes.h>
+	<glib/gerror.h>
+	<glib/gmem.h>
+
+1709847305 /usr/include/glib-2.0/glib/gkeyfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmappedfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmarkup.h
+	<stdarg.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+
+1733989135 st.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmessages.h
+	<stdarg.h>
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+	<glib/gmacros.h>
+	<glib/gvariant.h>
+
+1733989135 iant.h>
+
+1709847305 /usr/include/glib-2.0/glib/gvariant.h
+	<glib/gvarianttype.h>
+	<glib/gstring.h>
+	<glib/gbytes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gvarianttype.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/goption.h
+	<glib/gerror.h>
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpathbuf.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpattern.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gprimes.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gqsort.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gqueue.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/grand.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/grcbox.h
+	<glib/gmem.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/grefcount.h
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/grefstring.h
+	"gmem.h"
+	"gmacros.h"
+
+1733989135 "
+
+1709847305 /usr/include/glib-2.0/glib/gregex.h
+	<glib/gerror.h>
+	<glib/gstring.h>
+
+1709847305 /usr/include/glib-2.0/glib/gscanner.h
+	<glib/gdataset.h>
+	<glib/ghash.h>
+
+1733989135 h.h>
+
+1709847305 /usr/include/glib-2.0/glib/gsequence.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gshell.h
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gslice.h
+	<glib/gtypes.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gspawn.h
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstringchunk.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstrvbuilder.h
+	<glib/gstrfuncs.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtestutils.h
+	<glib/gmessages.h>
+	<glib/gstring.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gthreadpool.h
+	<glib/gthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtimer.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtrashstack.h
+	<glib/gutils.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtree.h
+	<glib/gnode.h>
+
+1709847305 /usr/include/glib-2.0/glib/guri.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/guuid.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gversion.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gallocator.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gcache.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gcompletion.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gmain.h
+	<glib/gmain.h>
+
+1733989135 n.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/grel.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gthread.h
+	<glib/gthread.h>
+	<sys/types.h>
+	<pthread.h>
+
+1739911020 >
+
+1709847305 /usr/include/glib-2.0/glib/glib-autocleanups.h
+
+1746634158 source:d:\programowanie\programy\battleships\main.c
+	<glib/gi18n.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gi18n.h
+	<glib.h>
+	<libintl.h>
+	<string.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib.h
+	<glib/galloca.h>
+	<glib/garray.h>
+	<glib/gasyncqueue.h>
+	<glib/gatomic.h>
+	<glib/gbacktrace.h>
+	<glib/gbase64.h>
+	<glib/gbitlock.h>
+	<glib/gbookmarkfile.h>
+	<glib/gbytes.h>
+	<glib/gcharset.h>
+	<glib/gchecksum.h>
+	<glib/gconvert.h>
+	<glib/gdataset.h>
+	<glib/gdate.h>
+	<glib/gdatetime.h>
+	<glib/gdir.h>
+	<glib/genviron.h>
+	<glib/gerror.h>
+	<glib/gfileutils.h>
+	<glib/ggettext.h>
+	<glib/ghash.h>
+	<glib/ghmac.h>
+	<glib/ghook.h>
+	<glib/ghostutils.h>
+	<glib/giochannel.h>
+	<glib/gkeyfile.h>
+	<glib/glist.h>
+	<glib/gmacros.h>
+	<glib/gmain.h>
+	<glib/gmappedfile.h>
+	<glib/gmarkup.h>
+	<glib/gmem.h>
+	<glib/gmessages.h>
+	<glib/gnode.h>
+	<glib/goption.h>
+	<glib/gpathbuf.h>
+	<glib/gpattern.h>
+	<glib/gpoll.h>
+	<glib/gprimes.h>
+	<glib/gqsort.h>
+	<glib/gquark.h>
+	<glib/gqueue.h>
+	<glib/grand.h>
+	<glib/grcbox.h>
+	<glib/grefcount.h>
+	<glib/grefstring.h>
+	<glib/gregex.h>
+	<glib/gscanner.h>
+	<glib/gsequence.h>
+	<glib/gshell.h>
+	<glib/gslice.h>
+	<glib/gslist.h>
+	<glib/gspawn.h>
+	<glib/gstrfuncs.h>
+	<glib/gstringchunk.h>
+	<glib/gstring.h>
+	<glib/gstrvbuilder.h>
+	<glib/gtestutils.h>
+	<glib/gthread.h>
+	<glib/gthreadpool.h>
+	<glib/gtimer.h>
+	<glib/gtimezone.h>
+	<glib/gtrashstack.h>
+	<glib/gtree.h>
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/guri.h>
+	<glib/gutils.h>
+	<glib/guuid.h>
+	<glib/gvariant.h>
+	<glib/gvarianttype.h>
+	<glib/gversion.h>
+	<glib/gversionmacros.h>
+	<glib/gwin32.h>
+	<glib/deprecated/gallocator.h>
+	<glib/deprecated/gcache.h>
+	<glib/deprecated/gcompletion.h>
+	<glib/deprecated/gmain.h>
+	<glib/deprecated/grel.h>
+	<glib/deprecated/gthread.h>
+	<glib/glib-autocleanups.h>
+	<glib/glib-typeof.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\galloca.h
+	<glib/gtypes.h>
+	<string.h>
+	<alloca.h>
+	<alloca.h>
+	<malloc.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtypes.h
+	<glibconfig.h>
+	<glib/gmacros.h>
+	<glib/gversionmacros.h>
+	<glib/glib-visibility.h>
+	<time.h>
+
+1733989135 c:\msys64\ucrt64\lib\glib-2.0\include\glibconfig.h
+	<glib/gmacros.h>
+	<limits.h>
+	<float.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmacros.h
+	<stddef.h>
+
+1739911020 c:\msys64\ucrt64\include\stddef.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\crtdefs.h
+	<corecrt.h>
+
+1739911020 c:\msys64\ucrt64\include\corecrt.h
+	<_mingw.h>
+	<winapifamily.h>
+
+1739911020 ily.h>
+
+1739911020 c:\msys64\ucrt64\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_ddk.h"
+
+1739911020 gw_ddk.h"
+
+1739911020 c:\msys64\ucrt64\include\_mingw_mac.h
+
+1739911020 c:\msys64\ucrt64\include\_mingw_secapi.h
+
+1739911020 c:\msys64\ucrt64\include\_cygwin.h
+	<stddef.h>
+
+1739911020 c:\msys64\ucrt64\include\vadefs.h
+	<_mingw.h>
+
+1739911020 c:\msys64\ucrt64\include\sdks\_mingw_ddk.h
+
+1739911020 c:\msys64\ucrt64\include\winapifamily.h
+
+1739911020 c:\msys64\ucrt64\include\limits.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\float.h
+	<crtdefs.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gversionmacros.h
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\glib-visibility.h
+
+1739911020 c:\msys64\ucrt64\include\time.h
+	<crtdefs.h>
+	<sys/timeb.h>
+	<_timeval.h>
+	<pthread_time.h>
+
+1739911020 ime.h>
+
+1739911020 c:\msys64\ucrt64\include\sys\timeb.h
+	<crtdefs.h>
+	<sec_api/sys/timeb_s.h>
+
+1739911020 ys/timeb_s.h>
+
+1739911020 c:\msys64\ucrt64\include\sec_api\sys\timeb_s.h
+	<sys/timeb.h>
+
+1739911020 c:\msys64\ucrt64\include\_timeval.h
+
+1739911646 c:\msys64\ucrt64\include\pthread_time.h
+	<sys/timeb.h>
+	"pthread_compat.h"
+
+1739911646 ompat.h"
+
+1739911020 c:\msys64\ucrt64\include\string.h
+	<crtdefs.h>
+	<sec_api/string_s.h>
+
+1739911020 tring_s.h>
+
+1739911020 c:\msys64\ucrt64\include\sec_api\string_s.h
+	<string.h>
+
+1739911020 c:\msys64\ucrt64\include\malloc.h
+	<crtdefs.h>
+	<mm_malloc.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\garray.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gasyncqueue.h
+	<glib/gthread.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gthread.h
+	<glib/gatomic.h>
+	<glib/gerror.h>
+	<glib/gutils.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gatomic.h
+	<glib/gtypes.h>
+	<glib/glib-typeof.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\glib-typeof.h
+	<glib/gversionmacros.h>
+	<type_traits>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gerror.h
+	<stdarg.h>
+	<glib/gquark.h>
+
+1739911020 c:\msys64\ucrt64\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1739911020 darg.h>
+
+1739911020 c:\msys64\ucrt64\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gquark.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gutils.h
+	<glib/gtypes.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1739911020 c:\msys64\ucrt64\include\stdlib.h
+	<corecrt.h>
+	<corecrt_wstdlib.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1739911020 c:\msys64\ucrt64\include\corecrt_wstdlib.h
+	<corecrt.h>
+
+1739911020 c:\msys64\ucrt64\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gbacktrace.h
+	<glib/gtypes.h>
+	<sys/select.h>
+	<signal.h>
+
+1739911020 c:\msys64\ucrt64\include\signal.h
+	<crtdefs.h>
+	<pthread_signal.h>
+
+1739911020 ignal.h>
+
+1739911646 c:\msys64\ucrt64\include\pthread_signal.h
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gbase64.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gbitlock.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gbookmarkfile.h
+	<glib/gdatetime.h>
+	<glib/gerror.h>
+	<time.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gdatetime.h
+	<glib/gtimezone.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtimezone.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gbytes.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gcharset.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gchecksum.h
+	<glib/gtypes.h>
+	<glib/gbytes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gconvert.h
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gdataset.h
+	<glib/gquark.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gdate.h
+	<time.h>
+	<glib/gtypes.h>
+	<glib/gquark.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gdir.h
+	<glib/gerror.h>
+	<dirent.h>
+
+1739911020 c:\msys64\ucrt64\include\dirent.h
+	<crtdefs.h>
+	<io.h>
+
+1739911020 c:\msys64\ucrt64\include\io.h
+	<crtdefs.h>
+	<string.h>
+	<_mingw_off_t.h>
+	<string.h>
+
+1739911020 c:\msys64\ucrt64\include\_mingw_off_t.h
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\genviron.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gfileutils.h
+	<glibconfig.h>
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\ggettext.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\ghash.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+	<glib/glist.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\glist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmem.h
+	<glib/gutils.h>
+	<glib/glib-typeof.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gnode.h
+	<glib/gmem.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\ghmac.h
+	<glib/gtypes.h>
+	"gchecksum.h"
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\ghook.h
+	<glib/gmem.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\ghostutils.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\giochannel.h
+	<glib/gconvert.h>
+	<glib/gmain.h>
+	<glib/gstring.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmain.h
+	<glib/gpoll.h>
+	<glib/gslist.h>
+	<glib/gthread.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gpoll.h
+	<glibconfig.h>
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gslist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gstring.h
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/gbytes.h>
+	<glib/gstrfuncs.h>
+	<glib/gutils.h>
+	<string.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gunicode.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gstrfuncs.h
+	<stdarg.h>
+	<string.h>
+	<glib/gmacros.h>
+	<glib/gtypes.h>
+	<glib/gerror.h>
+	<glib/gmem.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gkeyfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmappedfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmarkup.h
+	<stdarg.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gmessages.h
+	<stdarg.h>
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+	<glib/gmacros.h>
+	<glib/gvariant.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gvariant.h
+	<glib/gvarianttype.h>
+	<glib/gstring.h>
+	<glib/gbytes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gvarianttype.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\goption.h
+	<glib/gerror.h>
+	<glib/gquark.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gpathbuf.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gpattern.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gprimes.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gqsort.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gqueue.h
+	<glib/glist.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\grand.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\grcbox.h
+	<glib/gmem.h>
+	<glib/glib-typeof.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\grefcount.h
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\grefstring.h
+	"gmem.h"
+	"gmacros.h"
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gregex.h
+	<glib/gerror.h>
+	<glib/gstring.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gscanner.h
+	<glib/gdataset.h>
+	<glib/ghash.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gsequence.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gshell.h
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gslice.h
+	<glib/gtypes.h>
+	<string.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gspawn.h
+	<glib/gerror.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gstringchunk.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gstrvbuilder.h
+	<glib/gstrfuncs.h>
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtestutils.h
+	<glib/gmessages.h>
+	<glib/gstring.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+
+1739911020 c:\msys64\ucrt64\include\errno.h
+	<crtdefs.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gthreadpool.h
+	<glib/gthread.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtimer.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtrashstack.h
+	<glib/gutils.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gtree.h
+	<glib/gnode.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\guri.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\guuid.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gversion.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\gwin32.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\gallocator.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\gcache.h
+	<glib/glist.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\gcompletion.h
+	<glib/glist.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\gmain.h
+	<glib/gmain.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\grel.h
+	<glib/gtypes.h>
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\deprecated\gthread.h
+	<glib/gthread.h>
+	<sys/types.h>
+	<pthread.h>
+
+1739911020 c:\msys64\ucrt64\include\sys\types.h
+	<crtdefs.h>
+	<_mingw_off_t.h>
+
+1739911020 f_t.h>
+
+1739911646 c:\msys64\ucrt64\include\pthread.h
+	<stddef.h>
+	<errno.h>
+	<sys/types.h>
+	<process.h>
+	<limits.h>
+	<signal.h>
+	<time.h>
+	<sys/timeb.h>
+	"pthread_compat.h"
+	"sched.h"
+	"pthread_time.h"
+	<pthread_unistd.h>
+
+1739911646 nistd.h>
+
+1739911020 c:\msys64\ucrt64\include\process.h
+	<crtdefs.h>
+	<corecrt_startup.h>
+	<sys/types.h>
+
+1739911020 c:\msys64\ucrt64\include\corecrt_startup.h
+	<corecrt.h>
+
+1739911646 c:\msys64\ucrt64\include\pthread_compat.h
+
+1739911646 c:\msys64\ucrt64\include\pthread_unistd.h
+
+1733989135 c:\msys64\ucrt64\include\glib-2.0\glib\glib-autocleanups.h
+
+1736187126 c:\msys64\ucrt64\include\libintl.h
+	<locale.h>
+	<xlocale.h>
+	<stdio.h>
+	<stddef.h>
+	<stdarg.h>
+	<varargs.h>
+
+1739911020 c:\msys64\ucrt64\include\locale.h
+	<crtdefs.h>
+	<stdio.h>
+
+1739911020 c:\msys64\ucrt64\include\stdio.h
+	<corecrt_stdio_config.h>
+	<_mingw_off_t.h>
+	<swprintf.inl>
+	<sec_api/stdio_s.h>
+
+1739911020 tdio_s.h>
+
+1739911020 c:\msys64\ucrt64\include\corecrt_stdio_config.h
+	<corecrt.h>
+
+1739911020 c:\msys64\ucrt64\include\swprintf.inl
+	<vadefs.h>
+
+1739911020 c:\msys64\ucrt64\include\sec_api\stdio_s.h
+	<stdio.h>
+
+1739911020 c:\msys64\ucrt64\include\varargs.h
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1736159757 e.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1739177784 orm.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\begin_code.h
+
+1739177784 c:\msys64\ucrt64\include\sdl2\close_code.h
+
+1739911020 c:\msys64\ucrt64\include\memory.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\strings.h
+	<string.h>
+
+1739911020 c:\msys64\ucrt64\include\wchar.h
+	<corecrt.h>
+	<corecrt_stdio_config.h>
+	<corecrt_wstdlib.h>
+	<_mingw_off_t.h>
+	<_mingw_stat64.h>
+	<swprintf.inl>
+	<sec_api/wchar_s.h>
+
+1739911020 char_s.h>
+
+1739911020 c:\msys64\ucrt64\include\_mingw_stat64.h
+
+1739911020 c:\msys64\ucrt64\include\sec_api\wchar_s.h
+	<wchar.h>
+
+1739911020 c:\msys64\ucrt64\include\inttypes.h
+	<crtdefs.h>
+	<stdint.h>
+	<stddef.h>
+
+1739911020 c:\msys64\ucrt64\include\stdint.h
+	<crtdefs.h>
+	<stddef.h>
+
+1739911020 c:\msys64\ucrt64\include\ctype.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\math.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\sal.h
+	<concurrencysal.h>
+
+1739911020 cysal.h>
+
+1739911020 c:\msys64\ucrt64\include\concurrencysal.h
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1739911020 c:\msys64\ucrt64\include\intrin.h
+	<crtdefs.h>
+	<setjmp.h>
+	<stddef.h>
+	<psdk_inc/intrin-impl.h>
+	<stdlib.h>
+	<errno.h>
+	<malloc.h>
+	<x86intrin.h>
+	<cpuid.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+
+1739911020 c:\msys64\ucrt64\include\setjmp.h
+	<crtdefs.h>
+
+1739911020 c:\msys64\ucrt64\include\psdk_inc\intrin-impl.h
+	<intrin.h>
+	<psdk_inc/intrin-impl.h>
+
+1739911020 intrin-impl.h>
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1739177784 ode.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1739177784 c.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739177784 c:\msys64\ucrt64\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739178532 c:\msys64\ucrt64\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1736159757 c:\msys64\ucrt64\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1739911646 c:\msys64\ucrt64\include\sched.h
+	<stddef.h>
+	<errno.h>
+	<sys/types.h>
+	<process.h>
+	<limits.h>
+	<signal.h>
+	<sys/timeb.h>
+	"pthread_compat.h"
+
+1751805686 source:/mnt/AEF6B09DF6B0676D/PROGRAMOWANIE/PROGRAMY/BATTLESHIPS/main.c
+	<glib/gi18n.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1709847305 /usr/include/glib-2.0/glib/gi18n.h
+	<glib.h>
+	<libintl.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib.h
+	<glib/galloca.h>
+	<glib/garray.h>
+	<glib/gasyncqueue.h>
+	<glib/gatomic.h>
+	<glib/gbacktrace.h>
+	<glib/gbase64.h>
+	<glib/gbitlock.h>
+	<glib/gbookmarkfile.h>
+	<glib/gbytes.h>
+	<glib/gcharset.h>
+	<glib/gchecksum.h>
+	<glib/gconvert.h>
+	<glib/gdataset.h>
+	<glib/gdate.h>
+	<glib/gdatetime.h>
+	<glib/gdir.h>
+	<glib/genviron.h>
+	<glib/gerror.h>
+	<glib/gfileutils.h>
+	<glib/ggettext.h>
+	<glib/ghash.h>
+	<glib/ghmac.h>
+	<glib/ghook.h>
+	<glib/ghostutils.h>
+	<glib/giochannel.h>
+	<glib/gkeyfile.h>
+	<glib/glist.h>
+	<glib/gmacros.h>
+	<glib/gmain.h>
+	<glib/gmappedfile.h>
+	<glib/gmarkup.h>
+	<glib/gmem.h>
+	<glib/gmessages.h>
+	<glib/gnode.h>
+	<glib/goption.h>
+	<glib/gpathbuf.h>
+	<glib/gpattern.h>
+	<glib/gpoll.h>
+	<glib/gprimes.h>
+	<glib/gqsort.h>
+	<glib/gquark.h>
+	<glib/gqueue.h>
+	<glib/grand.h>
+	<glib/grcbox.h>
+	<glib/grefcount.h>
+	<glib/grefstring.h>
+	<glib/gregex.h>
+	<glib/gscanner.h>
+	<glib/gsequence.h>
+	<glib/gshell.h>
+	<glib/gslice.h>
+	<glib/gslist.h>
+	<glib/gspawn.h>
+	<glib/gstrfuncs.h>
+	<glib/gstringchunk.h>
+	<glib/gstring.h>
+	<glib/gstrvbuilder.h>
+	<glib/gtestutils.h>
+	<glib/gthread.h>
+	<glib/gthreadpool.h>
+	<glib/gtimer.h>
+	<glib/gtimezone.h>
+	<glib/gtrashstack.h>
+	<glib/gtree.h>
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/guri.h>
+	<glib/gutils.h>
+	<glib/guuid.h>
+	<glib/gvariant.h>
+	<glib/gvarianttype.h>
+	<glib/gversion.h>
+	<glib/gversionmacros.h>
+	<glib/gwin32.h>
+	<glib/deprecated/gallocator.h>
+	<glib/deprecated/gcache.h>
+	<glib/deprecated/gcompletion.h>
+	<glib/deprecated/gmain.h>
+	<glib/deprecated/grel.h>
+	<glib/deprecated/gthread.h>
+	<glib/glib-autocleanups.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/galloca.h
+	<glib/gtypes.h>
+	<string.h>
+	<alloca.h>
+	<alloca.h>
+	<malloc.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtypes.h
+	<glibconfig.h>
+	<glib/gmacros.h>
+	<glib/gversionmacros.h>
+	<glib/glib-visibility.h>
+	<time.h>
+
+1747310809 /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h
+	<glib/gmacros.h>
+	<limits.h>
+	<float.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmacros.h
+	<stddef.h>
+
+1747310809 /usr/include/glib-2.0/glib/gversionmacros.h
+
+1747310809 /usr/include/glib-2.0/glib/glib-visibility.h
+
+1709847305 /usr/include/glib-2.0/glib/garray.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gasyncqueue.h
+	<glib/gthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/gthread.h
+	<glib/gatomic.h>
+	<glib/gerror.h>
+	<glib/gutils.h>
+
+1709847305 /usr/include/glib-2.0/glib/gatomic.h
+	<glib/gtypes.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/glib-typeof.h
+	<glib/gversionmacros.h>
+	<type_traits>
+
+1709847305 /usr/include/glib-2.0/glib/gerror.h
+	<stdarg.h>
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gquark.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gutils.h
+	<glib/gtypes.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbacktrace.h
+	<glib/gtypes.h>
+	<sys/select.h>
+	<signal.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbase64.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbitlock.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbookmarkfile.h
+	<glib/gdatetime.h>
+	<glib/gerror.h>
+	<time.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdatetime.h
+	<glib/gtimezone.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtimezone.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gbytes.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+
+1709847305 /usr/include/glib-2.0/glib/gcharset.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gchecksum.h
+	<glib/gtypes.h>
+	<glib/gbytes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gconvert.h
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdataset.h
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdate.h
+	<time.h>
+	<glib/gtypes.h>
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gdir.h
+	<glib/gerror.h>
+	<dirent.h>
+
+1709847305 /usr/include/glib-2.0/glib/genviron.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gfileutils.h
+	<glibconfig.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/ggettext.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/ghash.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/glist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmem.h
+	<glib/gutils.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/gnode.h
+	<glib/gmem.h>
+
+1709847305 /usr/include/glib-2.0/glib/ghmac.h
+	<glib/gtypes.h>
+	"gchecksum.h"
+
+1709847305 /usr/include/glib-2.0/glib/ghook.h
+	<glib/gmem.h>
+
+1709847305 /usr/include/glib-2.0/glib/ghostutils.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/giochannel.h
+	<glib/gconvert.h>
+	<glib/gmain.h>
+	<glib/gstring.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmain.h
+	<glib/gpoll.h>
+	<glib/gslist.h>
+	<glib/gthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpoll.h
+	<glibconfig.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gslist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstring.h
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/gbytes.h>
+	<glib/gstrfuncs.h>
+	<glib/gutils.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gunicode.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstrfuncs.h
+	<stdarg.h>
+	<string.h>
+	<glib/gmacros.h>
+	<glib/gtypes.h>
+	<glib/gerror.h>
+	<glib/gmem.h>
+
+1709847305 /usr/include/glib-2.0/glib/gkeyfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmappedfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmarkup.h
+	<stdarg.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+
+1709847305 /usr/include/glib-2.0/glib/gmessages.h
+	<stdarg.h>
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+	<glib/gmacros.h>
+	<glib/gvariant.h>
+
+1709847305 /usr/include/glib-2.0/glib/gvariant.h
+	<glib/gvarianttype.h>
+	<glib/gstring.h>
+	<glib/gbytes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gvarianttype.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/goption.h
+	<glib/gerror.h>
+	<glib/gquark.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpathbuf.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gpattern.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gprimes.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gqsort.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gqueue.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/grand.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/grcbox.h
+	<glib/gmem.h>
+	<glib/glib-typeof.h>
+
+1709847305 /usr/include/glib-2.0/glib/grefcount.h
+	<glib/gatomic.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/grefstring.h
+	"gmem.h"
+	"gmacros.h"
+
+1709847305 /usr/include/glib-2.0/glib/gregex.h
+	<glib/gerror.h>
+	<glib/gstring.h>
+
+1709847305 /usr/include/glib-2.0/glib/gscanner.h
+	<glib/gdataset.h>
+	<glib/ghash.h>
+
+1709847305 /usr/include/glib-2.0/glib/gsequence.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gshell.h
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gslice.h
+	<glib/gtypes.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gspawn.h
+	<glib/gerror.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstringchunk.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gstrvbuilder.h
+	<glib/gstrfuncs.h>
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtestutils.h
+	<glib/gmessages.h>
+	<glib/gstring.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+
+1709847305 /usr/include/glib-2.0/glib/gthreadpool.h
+	<glib/gthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtimer.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtrashstack.h
+	<glib/gutils.h>
+
+1709847305 /usr/include/glib-2.0/glib/gtree.h
+	<glib/gnode.h>
+
+1709847305 /usr/include/glib-2.0/glib/guri.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/guuid.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/gversion.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gallocator.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gcache.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gcompletion.h
+	<glib/glist.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gmain.h
+	<glib/gmain.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/grel.h
+	<glib/gtypes.h>
+
+1709847305 /usr/include/glib-2.0/glib/deprecated/gthread.h
+	<glib/gthread.h>
+	<sys/types.h>
+	<pthread.h>
+
+1709847305 /usr/include/glib-2.0/glib/glib-autocleanups.h
+

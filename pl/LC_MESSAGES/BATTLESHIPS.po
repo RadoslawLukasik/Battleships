@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BATLESHIPS 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Radosław Łukasik <radoslawlukasik@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Place ships (RMB - rotate)"
+msgstr "Umieść statki (PPM - obrót)"
+
+msgid "Shoot"
+msgstr "Strzelaj"
+
+msgid "Hit"
+msgstr "Trafiony"
+
+msgid "Hit and sunk"
+msgstr "Trafiony zatopiony"
+
+msgid "Miss"
+msgstr "Pudło"
+
+msgid "Victory"
+msgstr "Zwycięstwo"
+
+msgid "Defeat"
+msgstr "Przegrana"
+
+msgid "Click to go to main menu"
+msgstr "Kliknij by wrócić do menu"
+
+msgid "Start game"
+msgstr "Rozpocznij grę"
+
+msgid "Statistics"
+msgstr "Statystyki"
+
+msgid "Games played:"
+msgstr "Rozegranych gier:"
+
+msgid "Wins:"
+msgstr "Zwycięstw:"
+
+msgid "Reset"
+msgstr "Zresetuj"
+
+msgid "Back"
+msgstr "Powrót"
+
+msgid "Music"
+msgstr "Muzyka"
+
+msgid "On"
+msgstr "Włączona"
+
+msgid "Off"
+msgstr "Wyłączona"
+
+msgid "Difficulty"
+msgstr "Poziom trudności"
+
+msgid "Easy"
+msgstr "Łatwy"
+
+msgid "Hard"
+msgstr "Trudny"
+
+msgid "Exit"
+msgstr "Zakończ"
